@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -34,3 +35,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+=======
+# rekognition-project
+This is a cloud‑native image analysis application that leverages AWS Rekognition to analyze user‑uploaded images. The backend is implemented in Node.js/Express and hosted on an Amazon EC2 instance, with results are stored in S3 &amp; DynamoDB. All infrastructure is provisioned end‑to‑end using Terraform.
+>>>>>>> f762e32eb863f9e6554e10555e4b16027806e27c
